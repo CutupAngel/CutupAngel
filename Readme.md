@@ -7,31 +7,31 @@
 
 #### My experience 
 
-***Front-End***
-#✔️ Angular (6+ years): Angular Material, NGX Bootstrap, NG Semantic-UI, NG Charts
-#✔️ React (5+ years): Redux, Material-UI, Ant Design, Semantic UI
-#✔️ Vue (5+ years): Vuex, Material Kit, Vuetify, Vux, Element
-#✔️ Bootstrap, JS, HTML5, SASS, CSS3 - Responsive
-#✔️ MERN, MEAN, MEVN stack
+***Front-End***<br/>
+✔️ Angular (6+ years): Angular Material, NGX Bootstrap, NG Semantic-UI, NG Charts<br/>
+✔️ React (5+ years): Redux, Material-UI, Ant Design, Semantic UI<br/>
+✔️ Vue (5+ years): Vuex, Material Kit, Vuetify, Vux, Element<br/>
+✔️ Bootstrap, JS, HTML5, SASS, CSS3 - Responsive<br/>
+✔️ MERN, MEAN, MEVN stack<br/>
 
-***Back-End***
-#✔️ PHP : Laravel, Symfony, CodeIgniter, Yii
-#✔️ Node/Express, Java, Spring Boot.
+***Back-End***<br/>
+✔️ PHP : Laravel, Symfony, CodeIgniter, Yii<br/>
+✔️ Node/Express, Java, Spring Boot.<br/>
 
-***Mobile***
-#✔️ React Native, Ionic
+***Mobile***<br/>
+✔️ React Native, Ionic<br/>
 
-***Blockchain***
-#✔️ Bitcoin, Ethereum, Solana, Cardano.
-#✔️ Smart Contract️, Solidity, Rust, C, Haskell, 
-#✔️ Web3, Hardhat, Truffle, Cargo
-#✔️ Defi, NFT, Dex, Tron
+***Blockchain***<br/>
+✔️ Bitcoin, Ethereum, Solana, Cardano.<br/>
+✔️ Smart Contract️, Solidity, Rust, C, Haskell, <br/>
+✔️ Web3, Hardhat, Truffle, Cargo<br/>
+✔️ Defi, NFT, Dex, Tron<br/>
 
-**Other experiences**
-#✔️ Database: MySQL, MongoDB, PostgreSQL, Firebase.
-#✔️ API (5+ years): Facebook, Google, Twitter, Twilio, Google Map, Stripe, MailChimp.
-#✔️ Several platforms and apis related to eCommerce.
-#✔️ AWS, GCP, Azure, Docker, Vagrant.
-#✔️ Git, SVN, etc.
-#✔️ JIRA, Trello, etc.
-#✔️ C++, C#, QT, QTML, Java, Go.
+**Other experiences**<br/>
+✔️ Database: MySQL, MongoDB, PostgreSQL, Firebase.<br/>
+✔️ API (5+ years): Facebook, Google, Twitter, Twilio, Google Map, Stripe, MailChimp.<br/>
+✔️ Several platforms and apis related to eCommerce.<br/>
+✔️ AWS, GCP, Azure, Docker, Vagrant.<br/>
+✔️ Git, SVN, etc.<br/>
+✔️ JIRA, Trello, etc.<br/>
+✔️ C++, C#, QT, QTML, Java, Go.<br/>
