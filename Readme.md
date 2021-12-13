@@ -3,7 +3,11 @@
 
 ### Intro
 
-Tech-savvy professional achieved Bachelor's Degree in computer science by software engineering practices. Innate ability and sensor to execute a full software development life cycle(SDLC). Skilled in developing flowcharts, responsive layout, dynamic landing page, lowlatency frontend UI and identify requirements and solutions. Passionate and creative talent for solving edge tech challenge. Capable for developing frontend UI of integrated with external services and blockchain. Capacity of maintain and developoing web applications based on correct development plan. Updating daily work, good communication skills, and ability of complete work.
+Tech-savvy professional achieved Bachelor's Degree in computer science by software engineering practices. 
+
+Innate ability and sensor to execute a full software development life cycle(SDLC). Skilled in developing <b>flowcharts, responsive layout, smart contracts with optimized code</b>, and identify requirements and solutions. Passionate and creative talent for solving edge tech challenge. Capable for developing fullstack integrated with external services and <b>blockchain</b>. Capacity of maintain and developoing web applications based on correct development plan. 
+
+Updating daily work, good communication skill ...
 
 ### About
 
