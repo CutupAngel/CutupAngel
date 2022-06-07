@@ -17,6 +17,6 @@ Updating daily work, good communication skill ...
 
 ### Summary
 
-Contributor @yearn(https://yearn.finance/)
+Contributor @yearn[https://yearn.finance/]
 
 ####      ![](https://img.shields.io/badge/Blockchain-red) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Web3.js-red) ![](https://img.shields.io/badge/Smart%20Contracts-blue) ![](https://img.shields.io/badge/Cryptocurrency-blue) ![](https://img.shields.io/badge/React-red) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Typescript-red)
