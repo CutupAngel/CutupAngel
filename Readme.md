@@ -1,4 +1,4 @@
-<h1 align="center">🙋‍♂️ Senior Blockchain Engineer</h1>
+<h1 align="center">🙋‍♂️ Senior Web3 Frontend Engineer</h1>
 
 
 ### Intro
