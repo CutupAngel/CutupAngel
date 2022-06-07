@@ -27,8 +27,3 @@ Updating daily work, good communication skill ...
 
 ####      ![](https://img.shields.io/badge/Blockchain-red) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Web3.js-red) ![](https://img.shields.io/badge/Smart%20Contracts-blue) ![](https://img.shields.io/badge/Cryptocurrency-blue) ![](https://img.shields.io/badge/React-red) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Typescript-red)
 
---- 
-
-<img align="center" alt="msilucifer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IntelMin&show_icons=true&hide_border=true" /><br /><br />
-
----
