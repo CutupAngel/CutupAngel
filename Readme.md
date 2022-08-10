@@ -17,13 +17,13 @@ Updating daily work, good communication skill ...
 
 ### Summary
 
-- <b>Contributor at <a href="https://github.com/yearn">Yearn Finance</a></b>
+- Contributor at <b><a href="https://github.com/yearn">Yearn Finance</a></b>
 
-- <b>Web3 Lead Engineer at <a href="https://github.com/depo-io">Arc Market</a>(<a href="https://arc.market/">live</a>)</b>
+- Web3 Lead Engineer at <b><a href="https://github.com/depo-io">Arc Market</a></b>
 
-- <b>Full Stack Blockchain Engineer at <a href="https://github.com/digible">Digible</a>(<a href="https://digible.io/">live</a>)</b>
+- Full Stack Blockchain Engineer at <b><a href="https://github.com/digible">Digible</a></b>
 
-- <b>Web3 FE Engineer at <a href="https://github.com/Crypto-Legions">CryptoAgency</a>(<a href="https://https://cryptolegions.app/">live</a>)</b>
+- Web3 FE Engineer at <b><a href="https://github.com/Crypto-Legions">CryptoAgency</a></b>
 
 &emsp;...
 
