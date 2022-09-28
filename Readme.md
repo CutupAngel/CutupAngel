@@ -9,7 +9,7 @@ Updating daily work, good communication skill ...
 
 ### About
 
-🎅 Passionate and creative Fullstack developer with over 8 years experience.
+🎅 Passionate and creative frontend developer with over 8 years experience.
 
 💥 Focusing on the blockchain technology integrate with various kinda industry.
 
